@@ -42,3 +42,9 @@ To better understand the topic, the following image explains when you *should no
 2. Smart contracts  
    2.1 Definition 
     - [Microsoft Learn - What is a smart contract?](https://docs.microsoft.com/en-gb/learn/modules/blockchain-solidity-ethereum-smart-contracts/2-smart-contracts)  
+
+   2.2 Development  
+
+   2.2.1 Must-use Frameworks  
+   - [Truffle](https://trufflesuite.com/)
+   - [OpenZeppelin](https://www.openzeppelin.com/)
